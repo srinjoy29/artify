@@ -52,11 +52,6 @@ To get started with Artify, follow these steps:
 5. **Download/Share**: Save or share your edited images once you are satisfied with the results.
 
 
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 If you have any questions or need further assistance, feel free to contact us at [srinjoydas0212@gmail.com ].
